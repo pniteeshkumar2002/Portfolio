@@ -1,0 +1,153 @@
+body {
+    font-family: 'Arial', sans-serif;
+    margin: 0;
+    padding: 0;
+    line-height: 1.6;
+    background: #f4f4f4;
+    color: #333;
+  }
+  
+  header {
+    background: #333;
+    color: #fff;
+    padding: 2rem 0;
+    text-align: center;
+  }
+  
+  nav {
+    background: #444;
+    padding: 1rem;
+    text-align: center;
+  }
+  
+  nav a {
+    color: #fff;
+    margin: 0 1rem;
+    text-decoration: none;
+  }
+  .profile-img {
+    border-radius: 50%;
+    width: 150px;
+    height: 150px;
+    object-fit: cover;
+    margin-bottom: 10px;
+  }
+  
+  
+  section {
+    padding: 2rem;
+    margin: 1rem;
+    background: #fff;
+    border-radius: 8px;
+  }
+  
+  .project {
+    margin-bottom: 1rem;
+  }
+  #contact p a{
+    text-decoration: none;
+  }
+  
+  /* footer {
+    background: #333;
+    color: #fff;
+    text-align: center;
+    padding: 1rem;
+    margin-top: 2rem;
+  } */
+
+  /* footer */
+  footer {
+    background-color: #333;
+    color: white;
+    text-align: center;
+    padding: 20px;
+    margin-top: 30px;
+  }
+  
+  footer p {
+    font-size: 1em;
+    margin-bottom: 10px;
+  }
+  
+  footer a {
+    /* color: #4CAF50; */
+    color: #f4f4f4;
+    text-decoration: none;
+  }
+  
+  footer a:hover {
+    color: #4CAF50;
+    text-decoration: underline;
+  }
+  
+  .social-links {
+    margin-top: 10px;
+  }
+  
+  .social-links a {
+    margin: 0 10px;
+    font-size: 1.2em;
+  }
+  
+  .social-links a:hover {
+    color: #4CAF50;
+  }
+  
+
+  /* Academic Section */
+
+  /* ===== Education Section Styling ===== */
+.section {
+  padding: 60px 20px;
+  background-color: #fafafa;
+}
+/* .container {
+  max-width: 800px;
+  margin: 0 auto;
+} */
+.section-title {
+  /* text-align: center; */
+  /* font-size: 2rem; */
+  color: #333;
+  margin-bottom: 40px;
+}
+.edu-item {
+  margin-bottom: 30px;
+  padding: 20px;
+  /* border-left: 4px solid #4CAF50; */
+  background-color: #fff;
+  border-radius: 8px;
+  box-shadow: 0 2px 6px rgba(0,0,0,0.05);
+}
+.edu-header {
+  display: flex;
+  justify-content: space-between;
+  align-items: baseline;
+  flex-wrap: wrap;
+}
+.edu-degree {
+  font-size: 1.4rem;
+  color: #222;
+  margin: 0;
+}
+.edu-year {
+  font-size: 1rem;
+  color: #666;
+}
+.edu-institution {
+  font-style: italic;
+  color: #555;
+  margin: 5px 0 15px;
+}
+.edu-details {
+  list-style-type: disc;
+  margin-left: 20px;
+  color: #444;
+}
+.edu-details li {
+  margin-bottom: 8px;
+  line-height: 1.5;
+}
+
+  
